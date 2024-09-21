@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "test_ghpages.html",
+    "href": "test_ghpages.html",
+    "title": "test_ghpages",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test_ghpages.html#quarto",
+    "href": "test_ghpages.html#quarto",
+    "title": "test_ghpages",
+    "section": "",
+    "text": "Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see https://quarto.org."
+  },
+  {
+    "objectID": "test_ghpages.html#running-code",
+    "href": "test_ghpages.html#running-code",
+    "title": "test_ghpages",
+    "section": "Running Code",
+    "text": "Running Code\nWhen you click the Render button a document will be generated that includes both content and the output of embedded code. You can embed code like this:\n\n1 + 1\n\n[1] 2\n\n\nYou can add options to executable code like this\n\n\n[1] 4\n\n\nThe echo: false option disables the printing of code (only output is displayed)."
+  }
+]
